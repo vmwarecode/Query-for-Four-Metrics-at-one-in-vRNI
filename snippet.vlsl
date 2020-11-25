@@ -1,0 +1,1 @@
+CPU Usage and Memory Usage and Network Rate and Total Packet Drop Ratio of VMware VM where Host = 'yourhostname'  order by Network Rate  desc
